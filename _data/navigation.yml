@@ -1,0 +1,22 @@
+# main links
+main:
+  - title: "Home"
+    url: /
+
+  - title: "Publication"
+    url: /publications/
+
+  - title: "Experience"
+    url: /experience/
+
+  - title: "Projects"
+    url: /projects/
+    
+  - title: "Honors & Awards"
+    url: /honors/
+
+  - title: "CV"
+    url: /CV/
+
+  - title: "Contact"
+    url: /contact/
