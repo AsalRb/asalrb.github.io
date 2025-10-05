@@ -33,8 +33,8 @@ Bioinformatics-oriented Biology student (CS minor) at the University of Tehran, 
 ---
 ## Technical Skills
 - **Programming:** Python, R, Bash, PostgreSQL, C++, LATEX
-- **Bioinformatics:** RNA-Seq, Genome Assembly, Multiple Sequence Alignment (MSA), Pairwise/Local Alignments, Systems Biology (WGCNA), QSAR, Docking (AutoDock), MD Simulation (GROMACS
-- **Machine Learning & AI:** PyTorch, scikit-learn, Transformers, WGCNA, dynamicTreeCut
+- **Bioinformatics:** RNA-Seq, Genome Assembly, Multiple Sequence Alignment (MSA), Pairwise/Local Alignments, Reference Mapping, Systems Biology (WGCNA), QSAR, Docking (AutoDock), MD Simulation (GROMACS)
+- **Machine Learning & AI:** PyTorch, scikit-learn, Transformers
 - **Software Tools:** Open Babel, UCSF Chimera, Oligo7, GenoPro, SnapGene, Cytoscape, IGV, Endnote, Storyline, SPSS
 - **Version Control:** Git, GitHub
 - **Laboratory:** Standard PCR, PCR Primer Design, DNA Electrophoresis, Genomic DNA Extraction (Salting-out), Spectrophotometry, Nanodrop, Centrifugation, ELISA, Blood Smear Preparation, Aseptic Technique, Gram Staining, Streak Plate Method
