@@ -7,7 +7,7 @@ classes: smaller-font
 ---
 The best way to reach me is via email:
 
-**Email:** [rabiee10@gmail.com](mailto:rabiee10@gmail.com)
+**Email:** [asal.rabiee2002@gmail.com](mailto:asal.rabiee2002@gmail.com)
 
 ## Social and Professional Networks
 

@@ -21,9 +21,9 @@ expression analysis (DESeq2), WGCNA, and survival modeling to identify lncRNA–
 
 ### Genetic Database
 Designed and implemented a normalized relational database (up to BCNF) for efficient genetic data management. Built a 
-complete pipeline including entity–relationship modeling, schema design, and SQL implementation in PostgreSQL. The system
- supports storing and querying of genes, RNAs, proteins, organisms, and users, with role-based access control and example 
-datasets.[GitHub Link](https://github.com/AsalRb/Genetic_Database)
+complete pipeline including entity–relationship modeling, schema design, and SQL implementation in PostgreSQL 
+(via pgAdmin4). The system supports storing and querying of genes, RNAs, proteins, organisms, and users, with 
+role-based access control and example datasets.[GitHub Link](https://github.com/AsalRb/Genetic_Database)
 
 
 ### Read Mapping and Genome Assembly
@@ -33,17 +33,15 @@ concordance, mapping rates, and read depth, providing hands-on experience with g
 
 
 ### Identification of Xylanase Genes
-Designed and implemented a bioinformatics pipeline to identify thermostable xylanase genes from rumen metagenomic datasets.
- The analysis involved sequence similarity searches (BLAST+), clustering at 97\% identity with CD-HIT to generate 
-non-redundant representatives, and conserved region modeling (HMM-based filtering) to refine candidates. Produced a 
-curated set of high-confidence xylanase gene sequences. [GitHub Link](https://github.com/AsalRb/Identification_of_Xylanase_Genes_from_Rumen_Metagenome)
+Designed and implemented a bioinformatics pipeline to identify thermostable xylanase genes from rumen metagenomic 
+datasets. The workflow included sequence similarity searches (BLAST+), clustering at 97% identity with CD-HIT to 
+generate non-redundant representatives, multiple sequence alignment (Clustal Omega) to detect conserved motifs, and 
+HMM-based filtering to refine candidates. Produced a curated set of high-confidence xylanase gene sequences. [GitHub Link](https://github.com/AsalRb/Identification_of_Xylanase_Genes_from_Rumen_Metagenome)
 
 
 ### Hierarchical Data Structure for Genetic Diseases
-Developed a Python-based system for organizing genetic diseases and their associated genes using a hierarchical tree 
-structure. Implemented functionalities for adding diseases and genes, performing search queries for gene–disease 
-associations, and displaying results. Integrated hash tables to store gene attributes (chromosomal location, exons, type, 
-official name) and designed a menu-driven interface for user interaction, demonstrating efficient hierarchical 
-representation of biomedical data. [GitHub Link](https://github.com/AsalRb/Hierarchical_Data_Structure_for_Genetic_Diseases_Using_Tree_Algorithms)
+Developed a Python-based tree system to organize genetic diseases and associated genes. Implemented search and 
+insertion functions with hash tables for gene attributes (location, exons, type, name) and a menu-driven interface,
+ enabling efficient hierarchical representation of biomedical data. [GitHub Link](https://github.com/AsalRb/Hierarchical_Data_Structure_for_Genetic_Diseases_Using_Tree_Algorithms)
 
 

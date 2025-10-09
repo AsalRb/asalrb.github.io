@@ -8,11 +8,11 @@ classes: smaller-font
 
 ## Journal Articles
 
-1. **Asal Rabiee**, Mehran Habibi-Rezaei. “Deciphering the Mechanisms of Blood Sugar Homeostasis: The Story of Gerty and Carl Cori.” *Science Cultivation*, Jun 2023. [Link](https://www.sciencecultivation.ir/article_705829.html)
+1. **Rabiee, A.**, & Habibi-Rezaei, M. (2023). Deciphering the mechanisms of blood sugar homeostasis: The story of Gerty and Carl Cori. *Science Cultivation*. [Link](https://www.sciencecultivation.ir/article_705829.html)
 
 ## Preprints
 
-1. Golnoush Farahzadeh, Arash Rezaeirad, Sorour Hassani, Morva Farajzadeh Tarani, Ayda Peymankar, **Asal Rabiee**, Esmaeil Roohparvar Basmenj. “QSAR, Docking and Molecular Dynamic Simulation Studies of Leishmanial Inhibitors Using a Bioinformatics Approach.” *Authorea*, Aug 2024. DOI: [10.22541/au.172464590.09500449/v1](https://doi.org/10.22541/au.172464590.09500449/v1)
+1. Farahzadeh, G., Rezaeirad, A., Hassani, S., Farajzadeh Tarani, M., Peymankar, A., **Rabiee, A.**, & Roohparvar Basmenj, E. (2024). QSAR, docking and molecular dynamic simulation studies of leishmanial inhibitors using a bioinformatics approach. *Authorea*. [doi:10.22541/au.172464590.09500449/v1](https://doi.org/10.22541/au.172464590.09500449/v1)
 
 {% comment %}
 You can use HTML to create more complex layouts if needed. For example:

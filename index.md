@@ -19,25 +19,24 @@ Bioinformatics-oriented Biology student (CS minor) at the University of Tehran, 
 1. **Drug Discovery**
    - Data-driven target/biomarker discovery, Binding-site prediction from sequence, Virtual screening and molecular design
 
-2. **Genomics**
-   - RNA-seq, Functional annotation, enrichment analysis, clinical–genomic integration, survival analysis
-
-3. **Machine Learning**
-   - Sequence-level models for proteins, Benchmarking & evaluation, Feature engineering for omics, Model interpretation
-
-
-4. **Systems Biology**
+2. **Systems Biology**
    - Co-expression networks (WGCNA), Network visualization & analysis (Cytoscape), network-driven candidate prioritization
 
+3. **Genomics**
+   - RNA-seq, Functional annotation, enrichment analysis, clinical–genomic integration, survival analysis
+
+4. **Machine Learning**
+   - Sequence-level models for proteins, Benchmarking & evaluation, Feature engineering for omics, Model interpretation
 
 ---
 ## Technical Skills
-- **Programming:** Python, R, Bash, PostgreSQL, C++, LATEX
-- **Bioinformatics:** RNA-Seq, Genome Assembly, Multiple Sequence Alignment (MSA), Pairwise/Local Alignments, Reference Mapping, Systems Biology (WGCNA), QSAR, Docking (AutoDock), MD Simulation (GROMACS)
+- **Programming:** Python, R, Bash, SQL, C++, LATEX
+- **Software Tools:** Oligo7, GenoPro, SnapGene, Cytoscape, IGV, Open Babel, UCSF Chimera, Endnote, SPSS
+- **Bioinformatics:** RNA-Seq, Genome Assembly (SPAdes, Quast), Multiple Sequence Alignment (Clustal Omega), Pairwise/Local Alignments (BLAST+), Reference Mapping (BWA, SAMtools), Systems Biology (WGCNA), QSAR, Docking (AutoDock), MD Simulation (GROMACS)
 - **Machine Learning & AI:** PyTorch, scikit-learn, Transformers
-- **Software Tools:** Open Babel, UCSF Chimera, Oligo7, GenoPro, SnapGene, Cytoscape, IGV, Endnote, Storyline, SPSS
 - **Version Control:** Git, GitHub
-- **Laboratory:** Standard PCR, PCR Primer Design, DNA Electrophoresis, Genomic DNA Extraction (Salting-out), Spectrophotometry, Nanodrop, Centrifugation, ELISA, Blood Smear Preparation, Aseptic Technique, Gram Staining, Streak Plate Method
+- **Laboratory:** Standard PCR, PCR Primer Design, DNA Electrophoresis, Genomic DNA Extraction (Salting-out), Spectrophotometry, Nanodrop, Centrifugation, Blood Smear Preparation, ELISA, Aseptic Technique, Gram Staining, Streak Plate Method
+- **Personal Skills:** Communication, Team Leadership, Teamwork, Problem-Solving, Critical Thinking, Creativity
 
 {: .small}
 {% endcapture %}
@@ -48,10 +47,9 @@ Bioinformatics-oriented Biology student (CS minor) at the University of Tehran, 
 ## Selected Projects 
 
 ### Benchmarking Protein–Ligand Binding Site Prediction with Pseq2Sites
-Bachelor thesis project benchmarking deep learning approaches (CNN with attention mechanisms) for sequence-based prediction
- of protein–ligand binding sites. Focused on large-scale preprocessing of scPDB and PDBbind datasets, implementation of 
-ProtTrans embeddings, and comparative evaluation to highlight strengths, challenges, and opportunities for improving drug 
-discovery pipelines. [GitHub Link](https://github.com/AsalRb/Benchmarking_Protein-Ligand_Binding_Site_Prediction_with_Pseq2Sites)
+Bachelor thesis project benchmarking deep learning approaches (CNN with attention mechanisms) for sequence-based prediction of
+protein–ligand binding sites. Focused on large-scale preprocessing of scPDB and PDBbind datasets, implementation of ProtTrans 
+embeddings, and comparative evaluation to highlight strengths, challenges, and opportunities for improving drug discovery pipelines.  [GitHub Link](https://github.com/AsalRb/Benchmarking_Protein-Ligand_Binding_Site_Prediction_with_Pseq2Sites)
 
 
 ### Exploring Relationships Between Ion Channels and lncRNAs in Gastric Cancer
@@ -67,8 +65,8 @@ concordance, mapping rates, and read depth, providing hands-on experience with g
 
 
 ### Identification of Xylanase Genes
-Designed and implemented a bioinformatics pipeline to identify thermostable xylanase genes from rumen metagenomic datasets.
- The analysis involved sequence similarity searches (BLAST+), clustering at 97\% identity with CD-HIT to generate 
-non-redundant representatives, and conserved region modeling (HMM-based filtering) to refine candidates. Produced a 
-curated set of high-confidence xylanase gene sequences. [GitHub Link](https://github.com/AsalRb/Identification_of_Xylanase_Genes_from_Rumen_Metagenome)
+Designed and implemented a bioinformatics pipeline to identify thermostable xylanase genes from rumen metagenomic datasets. 
+The workflow included sequence similarity searches (BLAST+), clustering at 97% identity with CD-HIT to generate 
+non-redundant representatives, multiple sequence alignment (Clustal Omega) to detect conserved motifs, and HMM-based 
+filtering to refine candidates. Produced a curated set of high-confidence xylanase gene sequences. [GitHub Link](https://github.com/AsalRb/Identification_of_Xylanase_Genes_from_Rumen_Metagenome)
 

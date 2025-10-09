@@ -5,7 +5,6 @@ permalink: /experience/
 author_profile: true
 ---
 
-## Research Experience
 ### Research Assistant
 **School of Biology, College of Science, University of Tehran**, 2025–2026 <br> 
 <div style="text-align: justify; font-size: 20px;">
@@ -37,7 +36,16 @@ author_profile: true
 ### Teaching Assistant
 **University of Tehran**, 2023–2025 <br>
 <div style="text-align: justify; font-size: 20px;">
-Bioinformatics (Fall 2025, Prof. Kavousi), Neurophysiology and Endocrinology (Winter 2025, Prof. Rezayof), Molecular Genetics (Fall 2024, Prof. Inanloo Rahatloo), Invertebrate Biology (Fall 2024, Prof. Rahimian), Metabolic Biochemistry (Winter 2024, Prof. Habibi Rezaei), Structural Biochemistry (Fall 2023, Prof. Habibi Rezaei), Biostatistics (Fall 2023, Prof. Malek), Calculus II (Winter 2023, Prof. Hosseini)
+<ul>
+  <li><strong>Bioinformatics</strong> (Fall 2025, Prof. Kavousi): Assisted students with coding assignments and biological data analysis, integrating computational and biological understanding. Led review sessions and provided individualized feedback, strengthening communication and problem-solving skills.</li>
+  <li><strong>Neurophysiology and Endocrinology</strong> (Winter 2025, Prof. Rezayof): Evaluated research-based assignments and guided students in interpreting scientific literature. Enhanced mentoring and analytical abilities through detailed feedback and concept clarification.</li>
+  <li><strong>Molecular Genetics</strong> (Fall 2024, Prof. Inanloo Rahatloo): Designed and coordinated the course project in collaboration with the instructor. Guided students through project development and evaluation, improving leadership and teamwork.</li>
+  <li><strong>Invertebrate Biology</strong> (Fall 2024, Prof. Rahimian): Taught literature review, essay writing, and presentation preparation to enhance students’ academic communication. Designed and graded quizzes and supported exams, refining organizational and feedback skills.</li>
+  <li><strong>Metabolic Biochemistry</strong> (Winter 2024, Prof. Habibi Rezaei): Guided students in presentation projects, quizzes, and exams while clarifying biochemical concepts. Strengthened leadership and critical-thinking skills in a demanding academic setting.</li>
+  <li><strong>Structural Biochemistry</strong> (Fall 2023, Prof. Habibi Rezaei): Reviewed lecture materials, assisted with quizzes and exams, and clarified advanced biochemical mechanisms. Developed instructional clarity and collaboration in one of the program’s most rigorous courses.</li>
+  <li><strong>Biostatistics</strong> (Fall 2023, Prof. Malek): Prepared assignments, explained statistical principles, and graded analytical reports. Reinforced quantitative reasoning and instructional communication skills.</li>
+  <li><strong>Calculus II</strong> (Winter 2023, Prof. Hosseini): Managed assignments for 90+ students, creating problem sets and grading submissions. Strengthened multitasking and precision while assisting first-year students with core concepts.</li>
+</ul>
 </div>
 
 ---
@@ -46,9 +54,10 @@ Bioinformatics (Fall 2025, Prof. Kavousi), Neurophysiology and Endocrinology (Wi
 **University of Tehran**, 2024–2025 <br>
 <div style="text-align: justify; font-size: 20px;">
 <ul>
-  <li>Genetics Laboratory (Winter 2025, Prof. Minaei)</li>
-  <li>Molecular Genetics Laboratory (Fall 2024, Prof. Minaei)</li>
+  <li><strong>Genetics Laboratory (Winter 2025, Prof. Minaei):</strong> Supported a highly demanding lab course of 80+ students. Guided experiments on Drosophila genetics, blood group typing, pedigree analysis (GenoPro), Barr body detection, and polytene chromosome observation. Assisted students with experimental setup, data interpretation, and report writing, and served as exam invigilator.</li>
+  <li><strong>Molecular Genetics Laboratory (Fall 2024, Prof. Minaei):</strong> Assisted a high-enrollment lab course (80+ students) in DNA extraction (salting-out), quantification (Nanodrop), primer design (Oligo7), PCR, and electrophoresis. Designed a bioinformatics project on ORF detection and guided students in creating instructional videos on primer design and sequence analysis.</li>
 </ul>
 </div>
+
 
 
