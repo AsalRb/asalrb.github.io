@@ -10,7 +10,7 @@ classes: wide smaller-font
 
 <div style="width: 100%; height: 800px; overflow: hidden;">
     <iframe src="{{ '/assets/CV-Asal Rabiee.pdf' | relative_url }}" width="100%" height="100%" frameborder="0" style="overflow: auto;">
-        <p>Your browser does not support iframes. You can <a href="{{ '/assets/.pdf' | relative_url }}">download the PDF</a> instead.</p>
+        <p>Your browser does not support iframes. You can <a href="{{ '/assets/CV-Asal Rabiee.pdf' | relative_url }}">download the PDF</a> instead.</p>
     </iframe>
 </div>
 
