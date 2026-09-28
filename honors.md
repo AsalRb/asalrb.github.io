@@ -8,7 +8,7 @@ classes: wide smaller-font
 
 ## Academic Honors
 
-- **Ranked 1st in Cumulative GPA among undergraduate students**  
+- **Ranked 1st in Cumulative GPA among undergraduate students in my major**  
   University of Tehran, 2025
 
 - **Awarded a full scholarship for the Computer Science minor**  
