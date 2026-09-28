@@ -21,7 +21,7 @@ title                    : "Asal Rabiee"
 title_separator          : "-"
 subtitle                 : "" # site tagline that appears below site title in masthead
 name                     : "Asal Rabiee"
-description              : "Biology & CS Student · University of Tehran"
+description              : "Bioinformatics · Computational Biology · University of Tehran"
 url                      : "https://asalrb.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AsalRb/AsalRb.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -115,7 +115,7 @@ analytics:
 author:
   name: "Asal Rabiee"
   avatar: "/assets/images/my-photo.jpg"
-  bio: "Biology & CS Student · University of Tehran"
+  bio: "Bioinformatics · Computational Biology · University of Tehran"
 #  location: "United States"
   links:
     - label: "Email"
