@@ -18,5 +18,5 @@ classes: wide smaller-font
   University of Tehran, 2021
 
 - **Top 8.5% in National University Entrance Exam**  
-   Among more than 500,000 participants, Tehran (2021)
+   Among more than 500,000 participants, Tehran, 2021
 
