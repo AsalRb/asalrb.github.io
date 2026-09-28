@@ -6,16 +6,24 @@ author_profile: true
 ---
 
 ### Research Assistant
-**School of Biology, College of Science, University of Tehran**, 2025–2026 <br> 
+**School of Biology, College of Science, University of Tehran**, Sep 2026- Present <br>
 <div style="text-align: justify; font-size: 20px;">
 <ul>
-  <li>Conducted a feasibility study of <strong>Pseq2Sites</strong>, assessing its applicability for protein–ligand binding site prediction, involving large-scale dataset preprocessing and CNN + attention model training, while identifying key limitations and methodological improvements.</li>
-  <li>Performed an independent bioinformatics study on <strong>co-expression networks between ion channels and lncRNAs in gastric cancer</strong>, utilizing RNA-seq (TCGA-STAD), differential expression analysis, WGCNA, and survival modeling, to uncover novel biomarkers and therapeutic targets. (Manuscript in preparation.)</li>
+  <li><strong>Structure-Based Drug Discovery Targeting PAD2:</strong> Investigating small-molecule allosteric inhibitors of PAD2 through protein and ligand preparation, binding-site characterization, molecular docking and redocking validation, and structure-based virtual screening using Schrödinger Maestro.</li>
+</ul>
+</div>
+
+**School of Biology, College of Science, University of Tehran**, Sep 2025- Present <br> 
+<div style="text-align: justify; font-size: 20px;">
+<ul>
+  <li>Benchmarked <strong>Pseq2Sites</strong>, a CNN + attention model for sequence-based protein-ligand binding-site prediction, using scPDB and PDBbind datasets and ProtTrans embeddings; evaluated model feasibility, limitations, and potential methodological improvements. <a href="https://github.com/AsalRb/Benchmarking_Protein-Ligand_Binding_Site_Prediction_with_Pseq2Sites">GitHub</a></li>
+
+  <li>Analyzed <strong>lncRNA-ion channel relationships in gastric cancer</strong> using TCGA-STAD RNA-seq data, differential expression analysis, and WGCNA to identify co-expression modules associated with clinical traits and prioritize candidate genes for further investigation. (Manuscript in preparation.) <a href="https://github.com/AsalRb/Exploring_Relationships_Between_Ion_Channels_and_lncRNAs_in_Gastric_Cancer">GitHub</a></li>
 </ul>
 </div>
 
 ### Research Assistant
-**University of Tehran (with collaboration of IAU, Uskudar Univ., Semnan Univ., SUT, KMU, TMU**, 2023–2024 <br> 
+**University of Tehran (with collaboration of IAU, Uskudar Univ., Semnan Univ., SUT, KMU, TMU)**, Sep 2023- Aug 2024 <br> 
 <div style="text-align: justify; font-size: 20px;">
 <ul>
   <li>Collaborated on a bioinformatics investigation of <strong>Leishmaniasis</strong>, contributing literature review and biomarker-driven drug discovery analyses. Supported integration of QSAR modeling, molecular docking, and molecular dynamics simulations. (Published as preprint)</li>
@@ -23,7 +31,7 @@ author_profile: true
 </div>
 
 ### Research Assistant
-**Protein Biotechnology Research Laboratory (PBRL), University of Tehran**, 2022–2023 <br> 
+**Protein Biotechnology Research Laboratory (PBRL), University of Tehran**, Sep 2022- Dec 2023 <br> 
 <div style="text-align: justify; font-size: 20px;">
 <ul>
   <li>Explored the <strong>therapeutic potential of Cannabidiol (CBD)</strong> via modulation of the Endocannabinoid System (ECS) in Alzheimer’s disease, focusing on neuroprotection and synaptic regulation.</li>
@@ -34,9 +42,10 @@ author_profile: true
 ---
 
 ### Teaching Assistant
-**University of Tehran**, 2023–2025 <br>
+**University of Tehran**, Jan 2023- Present <br>
 <div style="text-align: justify; font-size: 20px;">
 <ul>
+  <li><strong>Systems Biology</strong> (Fall 2026, Prof. Salehi): Designed and graded assignments for a class of 50+ students, managed assignment evaluation and grading, and provided individualized guidance to help students address questions and difficulties with course concepts.</li>
   <li><strong>Bioinformatics</strong> (Fall 2025, Prof. Kavousi): Assisted students with coding assignments and biological data analysis, integrating computational and biological understanding. Led review sessions and provided individualized feedback, strengthening communication and problem-solving skills.</li>
   <li><strong>Neurophysiology and Endocrinology</strong> (Winter 2025, Prof. Rezayof): Evaluated research-based assignments and guided students in interpreting scientific literature. Enhanced mentoring and analytical abilities through detailed feedback and concept clarification.</li>
   <li><strong>Molecular Genetics</strong> (Fall 2024, Prof. Inanloo Rahatloo): Designed and coordinated the course project in collaboration with the instructor. Guided students through project development and evaluation, improving leadership and teamwork.</li>
@@ -51,7 +60,7 @@ author_profile: true
 ---
 
 ### Laboratory Assistant
-**University of Tehran**, 2024–2025 <br>
+**University of Tehran**, Sep 2024- Jul 2025 <br>
 <div style="text-align: justify; font-size: 20px;">
 <ul>
   <li><strong>Genetics Laboratory (Winter 2025, Prof. Minaei):</strong> Supported a highly demanding lab course of 80+ students. Guided experiments on Drosophila genetics, blood group typing, pedigree analysis (GenoPro), Barr body detection, and polytene chromosome observation. Assisted students with experimental setup, data interpretation, and report writing, and served as exam invigilator.</li>
