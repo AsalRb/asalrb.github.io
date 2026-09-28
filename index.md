@@ -56,7 +56,7 @@ Ongoing research project using TCGA-STAD RNA-seq data to investigate gene co-exp
 
 
 ### Read Mapping and Genome Assembly
-Implemented a full NGS workflow on E. coli short-read data, including quality control (FastQC), de novo assembly (SPAdes, Quast), and read mapping (BWA, SAMtools). Validated results by visualizing alignments in IGV and assessing concordance, mapping rates, and read depth, providing hands-on experience with genome assembly and evaluation. [GitHub Link](https://github.com/AsalRb/Read_Mapping_and_Genome_Assembly)
+Implemented a full NGS workflow on *E. coli* short-read data, including quality control (FastQC), de novo assembly (SPAdes, Quast), and read mapping (BWA, SAMtools). Validated results by visualizing alignments in IGV and assessing concordance, mapping rates, and read depth, providing hands-on experience with genome assembly and evaluation. [GitHub Link](https://github.com/AsalRb/Read_Mapping_and_Genome_Assembly)
 
 
 ### Identification of Xylanase Genes
