@@ -13,7 +13,8 @@ author_profile: true
 </ul>
 </div>
 
-**School of Biology, College of Science, University of Tehran**, Sep 2025- Present <br> 
+### Research Assistant
+**School of Biology, College of Science, University of Tehran**, Jan 2025- Present <br> 
 <div style="text-align: justify; font-size: 20px;">
 <ul>
   <li>Benchmarked <strong>Pseq2Sites</strong>, a CNN + attention model for sequence-based protein-ligand binding-site prediction, using scPDB and PDBbind datasets and ProtTrans embeddings; evaluated model feasibility, limitations, and potential methodological improvements. <a href="https://github.com/AsalRb/Benchmarking_Protein-Ligand_Binding_Site_Prediction_with_Pseq2Sites">GitHub</a></li>
